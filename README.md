@@ -1,7 +1,7 @@
 # DDoS_attack
 ## marka hore ladag ✓
 ```python
-git clone https://github.com/Mustafeee/DDoS_attack.
+git clone https://github.com/Mustafeee/DDoS_attack.git
 ```
 ## marka kale na soo daji pip ka ✓
 ```python
